@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj": {}
+    "c:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj": {}
   },
   "projects": {
-    "C:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj": {
+    "c:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
+        "projectUniqueName": "c:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
         "projectName": "CPRG-305-ReleaseExamples",
-        "projectPath": "C:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
+        "projectPath": "c:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
         "packagesPath": "C:\\Users\\David Tse\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\obj\\",
+        "outputPath": "c:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David Tse\\AppData\\Roaming\\NuGet\\NuGet.Config"

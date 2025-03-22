@@ -1,7 +1,27 @@
 ﻿@page "/"
+@inject IConfiguration Configuration
 
 <PageTitle>Welcome to CPRG-305</PageTitle>
 
-<h1>Let's test out deployments!</h1>
+<h1>@welcomeMessage</h1>
 
-Welcome to your new app.
+
+@code{
+    
+    private string welcomeMessage = "Let's test out deployments!";
+    
+     protected override async Task OnInitializedAsync()
+    {
+        int p = int.Parse(Configuration["newLabel-Percent"]);
+        int rnd = new Random().Next(0, 100);
+        if (rnd < p)
+        {
+            welcomeMessage = "Welcome to CPRG-305!";
+        }
+        else
+        {
+            welcomeMessage = "Welcome back!";
+        }
+
+    }
+}    
