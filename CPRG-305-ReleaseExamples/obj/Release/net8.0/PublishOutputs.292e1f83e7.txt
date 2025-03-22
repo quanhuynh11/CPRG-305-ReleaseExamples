@@ -1,0 +1,7 @@
+C:\Development\CPRG305\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.exe
+C:\Development\CPRG305\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Development\CPRG305\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\appsettings.json
+C:\Development\CPRG305\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.dll
+C:\Development\CPRG305\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.deps.json
+C:\Development\CPRG305\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.runtimeconfig.json
+C:\Development\CPRG305\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.pdb
