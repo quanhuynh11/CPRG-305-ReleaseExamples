@@ -11,7 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("CPRG-305-ReleaseExamples")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d3b72329e093cb0ddf6e8f3e3af2fd1a23d9c15")]
 [assembly: System.Reflection.AssemblyProductAttribute("CPRG-305-ReleaseExamples")]

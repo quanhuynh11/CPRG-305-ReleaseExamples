@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CPRG-305-ReleaseExamples.props" />
+</Project>
