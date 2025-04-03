@@ -1,0 +1,7 @@
+C:\Users\spyro\GitHub\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.exe
+C:\Users\spyro\GitHub\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\spyro\GitHub\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\appsettings.json
+C:\Users\spyro\GitHub\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.dll
+C:\Users\spyro\GitHub\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.deps.json
+C:\Users\spyro\GitHub\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.runtimeconfig.json
+C:\Users\spyro\GitHub\CPRG-305-ReleaseExamples\CPRG-305-ReleaseExamples\bin\Release\net8.0\publish\CPRG-305-ReleaseExamples.pdb

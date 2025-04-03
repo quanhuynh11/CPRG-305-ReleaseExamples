@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\David Tse\\.nuget\\packages\\": {}
+    "C:\\Users\\spyro\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
+      "projectUniqueName": "C:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
       "projectName": "CPRG-305-ReleaseExamples",
-      "projectPath": "C:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
-      "packagesPath": "C:\\Users\\David Tse\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\CPRG305\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\obj\\",
+      "projectPath": "C:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
+      "packagesPath": "C:\\Users\\spyro\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\David Tse\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\spyro\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
