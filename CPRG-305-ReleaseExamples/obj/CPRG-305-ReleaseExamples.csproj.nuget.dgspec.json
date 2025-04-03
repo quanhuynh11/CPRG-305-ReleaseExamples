@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj": {}
+    "C:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj": {}
   },
   "projects": {
-    "c:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj": {
+    "C:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
+        "projectUniqueName": "C:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
         "projectName": "CPRG-305-ReleaseExamples",
-        "projectPath": "c:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
+        "projectPath": "C:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples.csproj",
         "packagesPath": "C:\\Users\\spyro\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\obj\\",
+        "outputPath": "C:\\Users\\spyro\\GitHub\\CPRG-305-ReleaseExamples\\CPRG-305-ReleaseExamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\spyro\\AppData\\Roaming\\NuGet\\NuGet.Config"
